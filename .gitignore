@@ -1,0 +1,6 @@
+# Ignore bytecode cache directories & virtual environments
+__pycache__/
+.venv/
+
+# Ignore test script
+test.py
